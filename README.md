@@ -11,4 +11,4 @@ The data collection was done by scraping information about apartments that were 
 
 - **EDA and subsequent model development will be in hemnet_data.ipynb**
 
-# This is a Work in Progress**
+# This is a Work in Progress
